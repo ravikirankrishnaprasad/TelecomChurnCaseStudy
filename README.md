@@ -6,6 +6,15 @@
 
 ---
 
+## 👥 Team
+
+**Team Name:** `Model Mavericks`  
+We participated as a duo team and collaborated throughout the competition.
+
+- **Ravikiran Krishnaprasad** – [GitHub](https://github.com/ravikirankrishnaprasad) | [LinkedIn](https://www.linkedin.com/in/ravikirankrishnaprasad)  
+- **Vishrut Mishra** – [GitHub](https://github.com/shootingStar10)
+
+
 ## 🧠 Problem Statement
 
 In the telecom industry, where customers can switch providers easily, the annual churn rate ranges between 15–25%. Given that acquiring a new customer is 5–10 times more expensive than retaining an existing one, customer retention has become a critical business goal.
